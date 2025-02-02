@@ -1,7 +1,4 @@
-# HAR
-
-
-  # CROWD ENGAGEMENT ANALYSIS
+# CROWD ENGAGEMENT ANALYSIS IN MUSIC CONCERT
 
 ## Overview
 Live Video Interaction Detector is a **Streamlit-based web application** designed for real-time video analysis. Users can:
